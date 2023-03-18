@@ -10,8 +10,6 @@ Question 1: What is Deep Work?
 Uninterrupted focus on work with zero distractions
 This helps to build skills and produce work of impeccable quality
 
-
-
 ## 4. Summary of Deep Work Book
 ---
 
