@@ -29,6 +29,7 @@ Question 2: Paraphrase all the ideas in the above videos and this one in detail.
 
 Question 3: How can you implement the principles in your day-to-day life?
 
+
 ---
 1. Start with a small duration of 60 minutes
 2. Keep all distractions at bay during those 60 minutes
